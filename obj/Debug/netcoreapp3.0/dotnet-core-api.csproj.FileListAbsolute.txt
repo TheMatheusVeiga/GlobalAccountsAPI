@@ -1,0 +1,117 @@
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\appsettings.Development.json
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\appsettings.json
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\dotnet-core-api.exe
+C:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\dotnet-core-api.deps.json
+C:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\dotnet-core-api.runtimeconfig.json
+C:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\dotnet-core-api.runtimeconfig.dev.json
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\dotnet-core-api.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\dotnet-core-api.pdb
+c:\Repositórios GitHub\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.csprojAssemblyReference.cache
+c:\Repositórios GitHub\dotnet-core-api\obj\Debug\netcoreapp3.0\staticwebassets\dotnet-core-api.StaticWebAssets.Manifest.cache
+c:\Repositórios GitHub\dotnet-core-api\obj\Debug\netcoreapp3.0\staticwebassets\dotnet-core-api.StaticWebAssets.xml
+c:\Repositórios GitHub\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.MvcApplicationPartsAssemblyInfo.cache
+c:\Repositórios GitHub\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.AssemblyInfoInputs.cache
+c:\Repositórios GitHub\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.AssemblyInfo.cs
+c:\Repositórios GitHub\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.RazorTargetAssemblyInfo.cache
+c:\Repositórios GitHub\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.dll
+c:\Repositórios GitHub\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.pdb
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Npgsql.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Repositórios GitHub\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.csproj.CopyComplete
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\app.config
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\dotnet-core-api.dll.config
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+c:\Repositórios GitHub\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\dotnet-core-api.exe
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\dotnet-core-api.deps.json
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\dotnet-core-api.runtimeconfig.json
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\dotnet-core-api.runtimeconfig.dev.json
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\dotnet-core-api.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\dotnet-core-api.pdb
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Npgsql.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.AssemblyInfoInputs.cache
+D:\Documentos\ETEP\Projetos\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.AssemblyInfo.cs
+D:\Documentos\ETEP\Projetos\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.csproj.CoreCompileInputs.cache
+D:\Documentos\ETEP\Projetos\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\ETEP\Projetos\dotnet-core-api\obj\Debug\netcoreapp3.0\staticwebassets\dotnet-core-api.StaticWebAssets.Manifest.cache
+D:\Documentos\ETEP\Projetos\dotnet-core-api\obj\Debug\netcoreapp3.0\staticwebassets\dotnet-core-api.StaticWebAssets.xml
+D:\Documentos\ETEP\Projetos\dotnet-core-api\obj\Debug\netcoreapp3.0\scopedcss\bundle\dotnet-core-api.styles.css
+D:\Documentos\ETEP\Projetos\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.RazorTargetAssemblyInfo.cache
+D:\Documentos\ETEP\Projetos\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.csproj.CopyComplete
+D:\Documentos\ETEP\Projetos\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.dll
+D:\Documentos\ETEP\Projetos\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.pdb
+D:\Documentos\ETEP\Projetos\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.genruntimeconfig.cache
+D:\Documentos\ETEP\Projetos\dotnet-core-api\obj\Debug\netcoreapp3.0\dotnet-core-api.csprojAssemblyReference.cache
